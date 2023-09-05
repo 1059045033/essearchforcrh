@@ -1,0 +1,24 @@
+{
+  "name": "crh/essearchforcrh",
+  "description": "elasticsearch/elasticsearch 7.17.0 链式查询 test",
+  "type": "library",
+  "version": "1.0.0",
+  "keywords": ["elasticsearch", "7.17", "php"],
+  "license": "MIT",
+  "require": {
+    "php": "^7.3",
+    "elasticsearch/elasticsearch": "^7.17.0"
+  },
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "crh",
+      "email": "1059045033@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Crh\\EsSearchLibrary\\": "src/"
+    }
+  }
+}
