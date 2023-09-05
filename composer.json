@@ -2,7 +2,7 @@
   "name": "crh/essearchforcrh",
   "description": "elasticsearch/elasticsearch 7.17.0 链式查询 test",
   "type": "library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["elasticsearch", "7.17", "php"],
   "license": "MIT",
   "require": {
